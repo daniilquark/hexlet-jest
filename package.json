@@ -1,0 +1,26 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "description": "First Jest in Git",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"Hello, World!\");"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniilquark/hexlet-jest.git"
+  },
+	"type": "module",
+  "keywords": [
+    "None"
+  ],
+  "author": "Daniil Quark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniilquark/hexlet-jest/issues"
+  },
+  "homepage": "https://github.com/daniilquark/hexlet-jest#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
